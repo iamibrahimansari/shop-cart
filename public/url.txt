@@ -1,0 +1,48 @@
+// first (fan gear)
+name: Sabrina Ionescu
+price: $100
+imgUrl: https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/13b1ccba-8f98-432d-aa12-598b00cd202c/sabrina-ionescu-new-york-liberty-2023-womens-dri-fit-wnba-victory-jersey-VnlHFV.png
+Product Details
+100% polyester
+Machine wash
+Imported
+Shown: Mint
+Style: FD0806-305
+reviews: 5star
+
+// second (fan gear)
+name: Kelsey Mitchell
+price: $100
+imgUrl: https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/99bbcb9a-daa8-4bdb-88e1-006405cd40ac/kelsey-mitchell-indiana-fever-2023-womens-dri-fit-wnba-victory-jersey-32ZC7r.png
+Product Details
+100% polyester
+Machine wash
+Imported
+Shown: University Red
+Style: DR8398-657
+reviews: 0star
+
+// third (fan gear)
+name: Dallas Wings
+price: $100
+imgUrl: https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/31c006dd-654d-444d-86f5-d7c81dee2ab9/dallas-wings-womens-dri-fit-wnba-victory-jersey-0mdZpl.png
+Product Details
+Woven jock tag
+Player name and number graphics
+100% polyester
+Machine wash
+Imported
+Shown: Black
+Style: DR7459-010
+reviews: 0star
+
+name: New World SUP Handheld Game
+price: $9
+imgUrl: https://m.media-amazon.com/images/I/513-6N3o0BL.jpg
+product Details
+400 RETRO CLASSIC GAMES -- The Game Console Built-in 400 classic games
+400 RETRO CLASSIC GAMES -- The Game Console Built-in 400 classic games such as Red Fortress, Contra, Tank Wars, Tetris, etc.Taking you back to your happy childhood
+USB RECHARGEABLE -- Built-in 800mAh lithium battery,come with a rechargeable lithium battery and a USB cable , charging time is about 1.5 hours,4 hours of continuous game play
+EASY TO CARRY -- color screen, comfortable touch,small and easy to carry,convenient size and lightweight, perfect for playing travel or on the go
+Package contain-- 1 pc hand game , 1 usb cable , 1 AV cable and user manual
+review: 3star
